@@ -28,3 +28,5 @@ if __name__ == "__main__":
 	# Save and load model
 	# model.save(sc, "myModelPath")
 	# sameModel = SVMModel.load(sc, "myModelPath")
+
+	
